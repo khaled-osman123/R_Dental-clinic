@@ -159,3 +159,4 @@ if __name__ == "__main__":
     window = Clinic()
     window.show()
     sys.exit(app.exec_())
+
