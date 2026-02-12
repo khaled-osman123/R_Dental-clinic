@@ -1,4 +1,5 @@
+build/
+dist/
 pycache/
 clinic.db
-build/
-*.pyc
+*.db
