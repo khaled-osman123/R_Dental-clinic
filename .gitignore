@@ -1,4 +1,3 @@
-pycache/
-clinic.db
-build/
 *.pyc
+.venv/
+venv/
